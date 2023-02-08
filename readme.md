@@ -1,1 +1,7 @@
-#Hello world
+# Hello world
+
+# Whats new
+
+Added main.py
+
+Modifications 
